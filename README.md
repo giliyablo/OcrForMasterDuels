@@ -1,0 +1,2 @@
+# OcrForMasterDuels
+OcrForMasterDuels
