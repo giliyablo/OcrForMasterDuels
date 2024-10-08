@@ -41,7 +41,7 @@ with open('extracted_text.txt', 'w', encoding='utf-8') as text_file:
         if frame_number % 10 == 0:
             # Crop the frame to the area of the screen where card titles are located
             # Assuming you know the coordinates of the card title region (you may need to adjust these)
-            card_title_area = frame[100:200, 100:600]  # Example coordinates
+            card_title_area = frame[140:440, 40:80]  # Example coordinates
 
             # Preprocess the frame for better OCR results
             processed_frame = preprocess_for_title(card_title_area)
