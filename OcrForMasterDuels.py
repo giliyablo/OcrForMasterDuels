@@ -18,7 +18,7 @@ def preprocess_for_title(frame):
     return denoised_frame
 
 # Load the video
-video_path = 'ocr2.mp4'
+video_path = 'ocr3.mp4'
 cap = cv2.VideoCapture(video_path)
 
 # Check if video opened successfully
@@ -41,7 +41,9 @@ with open('extracted_text.txt', 'w', encoding='utf-8') as text_file:
         if frame_number % 10 == 0:
             # Crop the frame to the area of the screen where card titles are located
             # Assuming you know the coordinates of the card title region (you may need to adjust these)
-            card_title_area = frame[140:440, 40:80]  # Example coordinates
+            card_title_area = frame[ 40:80, 140:440]  # Example coordinates
+            # Save the cropped image as a new file
+            cv2.imwrite(f'CardNames/card_title_frame_{frame_number}.png', card_title_area)  # {{ edit_1 }}
 
             # Preprocess the frame for better OCR results
             processed_frame = preprocess_for_title(card_title_area)
