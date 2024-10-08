@@ -42,7 +42,7 @@ with open('extracted_text.txt', 'w', encoding='utf-8') as text_file:
         if frame_number % 10 == 0:
             # Crop the frame to the area of the screen where card titles are located
             # Assuming you know the coordinates of the card title region (you may need to adjust these)
-            card_title_area = frame[ 40:80, 140:440]  # Example coordinates
+            card_title_area = frame[ 50:90, 170:470]  # Example coordinates
             
             # Ensure the directory exists
             os.makedirs('CardNames', exist_ok=True)  # {{ edit_1 }}
