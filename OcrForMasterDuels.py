@@ -65,7 +65,7 @@ with open('extracted_text.txt', 'w', encoding='utf-8') as text_file:
                 title_text = pytesseract.image_to_string(processed_frame, config=custom_config, output_type=Output.STRING)
                 
                 # Save the extracted card title to the file
-                text_file.write(f"Frame {frame_number} (Card Title): {title_text}\n")
+                text_file.write(f"Video {videoindex}, Frame {frame_number} (Card Title): {title_text}\n")
             
             frame_number += 1
 
