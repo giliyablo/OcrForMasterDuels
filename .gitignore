@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 # Video Files
-ocr3.mp4
-CardNames/*
+ocr*.mp4
+CardNames*/*
