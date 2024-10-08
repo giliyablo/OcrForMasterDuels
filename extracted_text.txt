@@ -346,3 +346,1426 @@ Frame 790 (Card Title): Dinomist Charge
 
 Frame 800 (Card Title): Zefra Path
 
+Frame 810 (Card Title): Raidraptor - Nest
+
+Frame 820 (Card Title): Raidraptor - Nest
+
+Frame 830 (Card Title): Constellar Tempest
+
+Frame 840 (Card Title): Fire Formation ~ Gyokkou
+
+Frame 850 (Card Title): 
+Frame 860 (Card Title): 
+Frame 870 (Card Title): 
+Frame 880 (Card Title): 
+Frame 890 (Card Title): Karakuri Anatomy
+
+Frame 900 (Card Title): Insect Neglect
+
+Frame 910 (Card Title): Miracle Fertilizer
+
+Frame 920 (Card Title): Burden of the Mighty
+
+Frame 930 (Card Title): Crystal! Tree
+
+Frame 940 (Card Title): "A" Cell Breeding Device
+
+Frame 950 (Card Title): 
+Frame 960 (Card Title): 
+Frame 970 (Card Title): 
+Frame 980 (Card Title): 
+Frame 990 (Card Title): Underworld Ritual of Prediction
+
+Frame 1000 (Card Title): Sonic Tracker
+
+Frame 1010 (Card Title): Rebirth of Nephthys
+
+Frame 1020 (Card Title): Revendread Origin
+
+Frame 1030 (Card Title): Chaos Form
+
+Frame 1040 (Card Title): Odd-Eyes Advent
+
+Frame 1050 (Card Title): Super Soldier Ritual
+
+Frame 1060 (Card Title): Forbidden Arts of the Gishki
+
+Frame 1070 (Card Title): 
+Frame 1080 (Card Title): 
+Frame 1090 (Card Title): 
+Frame 1100 (Card Title): 
+Frame 1110 (Card Title): Stars Align Above the Shrine
+
+Frame 1120 (Card Title): Dragonic Pendulum
+
+Frame 1130 (Card Title): Dragonic Pendulum
+
+Frame 1140 (Card Title): Floowandereeze and the Magnificent N
+
+Frame 1150 (Card Title): Ursarctic Big Dipper
+
+Frame 1160 (Card Title): Stairway to a Fabled Realm
+
+Frame 1170 (Card Title): Stairway to a Fabled Realm
+
+Frame 1180 (Card Title): Magellanica, the Deep Sea City
+
+Frame 1190 (Card Title): 
+Frame 1200 (Card Title): Galloping Gaia
+
+Frame 1210 (Card Title): White Rose Cloister
+
+Frame 1220 (Card Title): Generaider Boss Stage
+
+Frame 1230 (Card Title): Generaider Boss Stage
+
+Frame 1240 (Card Title): Sky Striker Airspace - Area Zero
+
+Frame 1250 (Card Title): Vendread Nights
+
+Frame 1260 (Card Title): World Legacy in Shadow
+
+Frame 1270 (Card Title): Cyberdark Inferno
+
+Frame 1280 (Card Title): Triamid Fortress
+
+Frame 1290 (Card Title): Bug Matrix
+
+Frame 1300 (Card Title): Majesty's Pegasus
+
+Frame 1310 (Card Title): 
+Frame 1320 (Card Title): 
+Frame 1330 (Card Title): 
+Frame 1340 (Card Title): 
+Frame 1350 (Card Title): 
+Frame 1360 (Card Title): 
+Frame 1370 (Card Title): 
+Frame 1380 (Card Title): Harpies’ Hunting Ground
+
+Frame 1390 (Card Title): The Sanctuary in the Sky
+
+Frame 1400 (Card Title): Umi
+
+Frame 1410 (Card Title): Stonehenge
+
+Frame 1420 (Card Title): Life Extreme
+
+Frame 1430 (Card Title): Archftend's Staff of Despair
+
+Frame 1440 (Card Title): 
+Frame 1450 (Card Title): 
+Frame 1460 (Card Title): 
+Frame 1470 (Card Title): Favorite Hero
+
+Frame 1480 (Card Title): Psychic Blade
+
+Frame 1490 (Card Title): Saqlifice
+
+Frame 1500 (Card Title): Celestial Sword — Eatos
+
+Frame 1510 (Card Title): Magicalized Duston Mop
+
+Frame 1520 (Card Title): Dragon Shield
+
+Frame 1530 (Card Title): Galaxy Zero
+
+Frame 1540 (Card Title): Noble Arms — Gallatin
+
+Frame 1550 (Card Title): Vylon Component
+
+Frame 1560 (Card Title): 
+Frame 1570 (Card Title): 
+Frame 1580 (Card Title): 
+Frame 1590 (Card Title): 
+Frame 1600 (Card Title): D.D.R. — Different Dimension Reincarni
+
+Frame 1610 (Card Title): Assault Armor
+
+Frame 1620 (Card Title): Broken Bamboo Sword
+
+Frame 1630 (Card Title): Mist Body
+
+Frame 1640 (Card Title): Mist Body
+
+Frame 1650 (Card Title): Autonomous Action Unit
+
+Frame 1660 (Card Title): Autonomous Action Unit
+
+Frame 1670 (Card Title): Autonomous Action Unit
+
+Frame 0 (Card Title): Destiny HERO - Dark Angel
+
+Frame 10 (Card Title): Destiny HERO - Dark Angel
+
+Frame 20 (Card Title): Destiny HERO - Dark Angel
+
+Frame 30 (Card Title): Patchwork Fluffal
+
+Frame 40 (Card Title): Aromaseraphy Angelica
+
+Frame 50 (Card Title): 
+Frame 60 (Card Title): 
+Frame 70 (Card Title): Berry Magician Girl
+
+Frame 80 (Card Title): Tuning Gum
+
+Frame 90 (Card Title): Red Mirror
+
+Frame 100 (Card Title): 
+Frame 110 (Card Title): Buster Whelp of the Destruction Sword
+
+Frame 120 (Card Title): Edea the Heavenly Squire
+
+Frame 130 (Card Title): Superheavy Samurai Soulhorns
+
+Frame 140 (Card Title): 
+Frame 150 (Card Title): Black Metal Dragon
+
+Frame 160 (Card Title): Wightprince
+
+Frame 170 (Card Title): 
+Frame 180 (Card Title): 
+Frame 190 (Card Title): Sylvan Peaskeeper
+
+Frame 200 (Card Title): Ghostrick Specter
+
+Frame 210 (Card Title): Maiden with Eyes of Blue
+
+Frame 220 (Card Title): 
+Frame 230 (Card Title): Kuriphoton
+
+Frame 240 (Card Title): Mono Synchron
+
+Frame 250 (Card Title): Mono Synchron
+
+Frame 260 (Card Title): Mono Synchron
+
+Frame 270 (Card Title): Mono Synchron
+
+Frame 280 (Card Title): House Duston
+
+Frame 290 (Card Title): Evoltile Pleuro
+
+Frame 300 (Card Title): 
+Frame 310 (Card Title): Necro Fleur
+
+Frame 320 (Card Title): D.D. Sprite
+
+Frame 330 (Card Title): 
+Frame 340 (Card Title): Wightmare
+
+Frame 350 (Card Title): Watthopper
+
+Frame 360 (Card Title): Reptia Egg
+
+Frame 370 (Card Title): 
+Frame 380 (Card Title): A/D Changer
+
+Frame 390 (Card Title): Spore
+
+Frame 400 (Card Title): 
+Frame 410 (Card Title): Battle Fader
+
+Frame 420 (Card Title): Battle Fader
+
+Frame 430 (Card Title): 
+Frame 440 (Card Title): Jester Confit
+
+Frame 450 (Card Title): Evil Thorn
+
+Frame 460 (Card Title): The White Stone of Legend
+
+Frame 470 (Card Title): 
+Frame 480 (Card Title): Hanewata
+
+Frame 490 (Card Title): Cyber Valley
+
+Frame 500 (Card Title): Angel 01
+
+Frame 510 (Card Title): 
+Frame 520 (Card Title): Armed Ninja
+
+Frame 530 (Card Title): Kuriboh
+
+Frame 540 (Card Title): Zep. Ruby of the Ghoti
+
+Frame 550 (Card Title): Zep. Ruby of the Ghoti
+
+Frame 560 (Card Title): Rex, Freight Fur Hire
+
+Frame 570 (Card Title): Blackwing — Chinook the Snow Blast
+
+Frame 580 (Card Title): 
+Frame 590 (Card Title): Shif, Fairy of the Ghoti
+
+Frame 600 (Card Title): Melffy Pinny
+
+Frame 610 (Card Title): Mad Mauler
+
+Frame 620 (Card Title): 
+Frame 630 (Card Title): Mad Hacker
+
+Frame 640 (Card Title): Gizmek Naganaki, the Sunrise Signaler
+
+Frame 650 (Card Title): 
+Frame 660 (Card Title): 
+Frame 670 (Card Title): Zuijin of the Ice Barrier
+
+Frame 680 (Card Title): Ojama Pink
+
+Frame 690 (Card Title): 
+Frame 700 (Card Title): Tri-Brigade Kitt
+
+Frame 710 (Card Title): Adamancipator Seeker
+
+Frame 720 (Card Title): 
+Frame 730 (Card Title): Crimson Resonator
+
+Frame 740 (Card Title): Nurse Dragonmaid
+
+Frame 750 (Card Title): Cyber Egg Angel
+
+Frame 760 (Card Title): 
+Frame 770 (Card Title): Centerfrog
+
+Frame 780 (Card Title): Vampire Retainer
+
+Frame 790 (Card Title): 
+Frame 800 (Card Title): Vampire Retainer
+
+Frame 810 (Card Title): Elementsaber Makani
+
+Frame 820 (Card Title): 
+Frame 830 (Card Title): Krawler Spine
+
+Frame 840 (Card Title): Chemicritter Carbo Crab
+
+Frame 850 (Card Title): Lemon Magician Girl
+
+Frame 860 (Card Title): 
+Frame 870 (Card Title): PSY-Framegear Delta
+
+Frame 880 (Card Title): Superheavy Samurai Trumpeter
+
+Frame 890 (Card Title): 
+Frame 900 (Card Title): Master Craftsman Gamil
+
+Frame 910 (Card Title): Zombowwow
+
+Frame 920 (Card Title): 
+Frame 930 (Card Title): Bacon Saver
+
+Frame 940 (Card Title): Imairuka
+
+Frame 950 (Card Title): Cardcar D
+
+Frame 960 (Card Title): 
+Frame 970 (Card Title): Division
+
+Frame 980 (Card Title): Snapdragon
+
+Frame 990 (Card Title): Doppelwarrior
+
+Frame 1000 (Card Title): 
+Frame 1010 (Card Title): Lefty Driver
+
+Frame 1020 (Card Title): Wattdragonfly
+
+Frame 1030 (Card Title): Unibird
+
+Frame 1040 (Card Title): 
+Frame 1050 (Card Title): Infernity Beetle
+
+Frame 1060 (Card Title): Fortune Lady Fire
+
+Frame 1070 (Card Title): Blackwing — Blizzard the Far North
+
+Frame 1080 (Card Title): Blackwing — Blizzard the Far North
+
+Frame 1090 (Card Title): Mist Valley Baby Roc
+
+Frame 1100 (Card Title): X-Saber Pashuul
+
+Frame 1110 (Card Title): 
+Frame 1120 (Card Title): Herald of Orange Light
+
+Frame 1130 (Card Title): Cryomancer of the Ice Barrier
+
+Frame 1140 (Card Title): 
+Frame 1150 (Card Title): Volcanic Scattershot
+
+Frame 1160 (Card Title): Herald of Purple Light
+
+Frame 1170 (Card Title): Rafflesia Seduction
+
+Frame 1180 (Card Title): 
+Frame 1190 (Card Title): Salamangreat Weasel
+
+Frame 1200 (Card Title): Three-Eyed Ghost
+
+Frame 1210 (Card Title): Three-Eyed Ghost
+
+Frame 1220 (Card Title): Three-Eyed Ghost
+
+Frame 1230 (Card Title): Three-Eyed Ghost
+
+Frame 1240 (Card Title): 
+Frame 1250 (Card Title): Three-Eyed Ghost
+
+Frame 1260 (Card Title): Baby Spider
+
+Frame 1270 (Card Title): 
+Frame 1280 (Card Title): Basiltrice, Familiar of the Evil Eye
+
+Frame 1290 (Card Title): Oily Cicada
+
+Frame 1300 (Card Title): Advanced Crystal Beast Ruby Carbuncl
+
+Frame 1310 (Card Title): 
+Frame 1320 (Card Title): Vernusylph of the Thawing Mountains
+
+Frame 1330 (Card Title): Reverse Jar
+
+Frame 1340 (Card Title): Vampire Ghost
+
+Frame 1350 (Card Title): 
+Frame 1360 (Card Title): Gagaku-P.U.N.K. Wa Gon
+
+Frame 1370 (Card Title): Gagaku-P.U.N.K. Wa Gon
+
+Frame 1380 (Card Title): Ukiyoe-P.U.N.K. Sharakusai
+
+Frame 1390 (Card Title): Ukiyoe-P.U.N.K. Sharakusai
+
+Frame 1400 (Card Title): Penguin Ninja
+
+Frame 1410 (Card Title): Destiny HERO — Denier
+
+Frame 1420 (Card Title): Destiny HERO — Denier
+
+Frame 1430 (Card Title): Destiny HERO — Denier
+
+Frame 1440 (Card Title): Destiny HERO — Denier
+
+Frame 1450 (Card Title): Destiny HERO — Denier
+
+Frame 0 (Card Title): Earthbound Servant Geo Gremlina
+
+Frame 10 (Card Title): Earthbound Servant Geo Gremlina
+
+Frame 20 (Card Title): Earthbound Servant Geo Gremlina
+
+Frame 30 (Card Title): Elemental HERO Phoenix Enforcer
+
+Frame 40 (Card Title): 
+Frame 50 (Card Title): Ryu Senshi
+
+Frame 60 (Card Title): Kwagar Hercules
+
+Frame 70 (Card Title): Dark Magician Girl the Dragon Knight
+
+Frame 80 (Card Title): 
+Frame 90 (Card Title): 
+Frame 100 (Card Title): Cyber Ogre 2
+
+Frame 110 (Card Title): Brigrand the Glory Dragon
+
+Frame 120 (Card Title): Invoked Augoeides
+
+Frame 130 (Card Title): Ancient Gear Howitzer
+
+Frame 140 (Card Title): 
+Frame 150 (Card Title): Windwitch — Crystal Bell
+
+Frame 160 (Card Title): Masked HERO Anki
+
+Frame 170 (Card Title): Amulet Dragon
+
+Frame 180 (Card Title): 
+Frame 190 (Card Title): 
+Frame 200 (Card Title): Cyberdark Dragon
+
+Frame 210 (Card Title): Elemental HERO Shining Phoenix Enfo.
+
+Frame 220 (Card Title): XYZ-Dragon Cannon
+
+Frame 230 (Card Title): Phantasm Emperor Trilojig
+
+Frame 240 (Card Title): 
+Frame 250 (Card Title): 
+Frame 260 (Card Title): 
+Frame 270 (Card Title): Dragon Master Knight
+
+Frame 280 (Card Title): Blue-Eyes Ultimate Dragon
+
+Frame 290 (Card Title): Devotee of Nephthys
+
+Frame 300 (Card Title): 
+Frame 310 (Card Title): Foie Glasya de Nouvelles
+
+Frame 320 (Card Title): Megalith Ophiel
+
+Frame 330 (Card Title): Revendread Slayer
+
+Frame 340 (Card Title): 
+Frame 350 (Card Title): 
+Frame 360 (Card Title): Dokurorider
+
+Frame 370 (Card Title): Odd-Eyes Gravity Dragon
+
+Frame 380 (Card Title): Chakra
+
+Frame 390 (Card Title): 
+Frame 400 (Card Title): 
+Frame 410 (Card Title): Blue-Eyes Chaos Dragon
+
+Frame 420 (Card Title): Nekroz of Decisive Armor
+
+Frame 430 (Card Title): Pazuzule
+
+Frame 440 (Card Title): 
+Frame 450 (Card Title): Mythical Beast Jackal
+
+Frame 460 (Card Title): Speedroid Dominobutterfly
+
+Frame 470 (Card Title): Odd-Eyes Mirage Dragon
+
+Frame 480 (Card Title): Majespecter Cat - Nekomata
+
+Frame 490 (Card Title): 
+Frame 500 (Card Title): 
+Frame 510 (Card Title): D/D Evil
+
+Frame 520 (Card Title): Speedroid Hexasaucer
+
+Frame 530 (Card Title): Supreme King Dragon Darkwurm
+
+Frame 540 (Card Title): 
+Frame 550 (Card Title): 
+Frame 560 (Card Title): Performapal Gold Fang
+
+Frame 570 (Card Title): Steel Cavalry of Dinon
+
+Frame 580 (Card Title): Guiding Ariadne
+
+Frame 590 (Card Title): 
+Frame 600 (Card Title): Dark Doriado
+
+Frame 610 (Card Title): Samurai Cavalry of Reptier
+
+Frame 620 (Card Title): Magical Abductor
+
+Frame 630 (Card Title): 
+Frame 640 (Card Title): 
+Frame 650 (Card Title): Rescue Hamster
+
+Frame 660 (Card Title): Performapal Silver Claw
+
+Frame 670 (Card Title): Odd-Eyes Persona Dragon
+
+Frame 680 (Card Title): 
+Frame 690 (Card Title): 
+Frame 700 (Card Title): Nazuki the Vaylantz Ninja
+
+Frame 710 (Card Title): Oafdragon Magician
+
+Frame 720 (Card Title): Zefraniu, Secret of the Yang Zing
+
+Frame 730 (Card Title): 
+Frame 740 (Card Title): D/D Proud Ogre
+
+Frame 750 (Card Title): TiSolfachord Beautia
+
+Frame 760 (Card Title): 
+Frame 770 (Card Title): Parametalfoes Melcaster
+
+Frame 780 (Card Title): Twilight Ninja Jogen
+
+Frame 790 (Card Title): 
+Frame 800 (Card Title): Performapal Smile Sorcerer
+
+Frame 810 (Card Title): Frightfur Meister
+
+Frame 820 (Card Title): Grucsome Grave Squirmer
+
+Frame 830 (Card Title): 
+Frame 840 (Card Title): Principug
+
+Frame 850 (Card Title): Mementotlan Mace
+
+Frame 860 (Card Title): 
+Frame 870 (Card Title): Snake-Eye Birch
+
+Frame 880 (Card Title): Dimensional Allotrope Varis
+
+Frame 890 (Card Title): Parl, Hermit of Dark World
+
+Frame 900 (Card Title): 
+Frame 910 (Card Title): Labrynth Cooclock
+
+Frame 920 (Card Title): Labrynth Cooclock
+
+Frame 930 (Card Title): Predaplant Byblisp
+
+Frame 940 (Card Title): 
+Frame 950 (Card Title): Dimension Conjurer
+
+Frame 960 (Card Title): Converging Wills Dragon
+
+Frame 970 (Card Title): 
+Frame 980 (Card Title): Ruddy Rose Witch
+
+Frame 990 (Card Title): Hexa Spirit of the Ice Barrier
+
+Frame 1000 (Card Title): 
+Frame 1010 (Card Title): Hexa Spirit of the Ice Barrier
+
+Frame 1020 (Card Title): Fire Flint Lady
+
+Frame 1030 (Card Title): Witchcrafter Genni
+
+Frame 1040 (Card Title): 
+Frame 1050 (Card Title): Karakuri Gama mdl 4624 "Shirokunishi
+
+Frame 1060 (Card Title): Karakuri Gama mdl 4624 "Shirokunishi
+
+Frame 1070 (Card Title): 
+Frame 1080 (Card Title): Infernoble Knight — Roland
+
+Frame 1090 (Card Title): Aromage Laure!
+
+Frame 1100 (Card Title): Fortune Lady Past
+
+Frame 1110 (Card Title): 
+Frame 1120 (Card Title): Tenyi Spirit - Adhara
+
+Frame 1130 (Card Title): Omni Dragon Brotaur
+
+Frame 1140 (Card Title): 
+Frame 1150 (Card Title): 
+Frame 1160 (Card Title): Cyber Dragon Nachster
+
+Frame 1170 (Card Title): Trancefamiliar
+
+Frame 1180 (Card Title): 
+Frame 1190 (Card Title): 
+Frame 1200 (Card Title): Predaplant Sarraceniant
+
+Frame 1210 (Card Title): Windwitch - Snow Bell
+
+Frame 1220 (Card Title): 
+Frame 1230 (Card Title): Destiny HERO —- Dark Angel
+
+Frame 1240 (Card Title): Destiny HERO —- Dark Angel
+
+Frame 0 (Card Title): Hraesvelgr. the Desperate Doom Eagle
+
+Frame 10 (Card Title): 
+Frame 20 (Card Title): Altergeist Primebanshee
+
+Frame 30 (Card Title): Agave Dragon
+
+Frame 40 (Card Title): Magician of Hope
+
+Frame 50 (Card Title): Odd-Eyes Rebellion Dragon
+
+Frame 60 (Card Title): 
+Frame 70 (Card Title): 
+Frame 80 (Card Title): Number 13: Embodiment of Crime
+
+Frame 90 (Card Title): Number 29: Mannequin Cat
+
+Frame 100 (Card Title): 
+Frame 110 (Card Title): Battlecruiser Dianthus
+
+Frame 120 (Card Title): Mechquipped Angineer
+
+Frame 130 (Card Title): Shark Caesar
+
+Frame 140 (Card Title): Mermail Abysstrite
+
+Frame 150 (Card Title): 
+Frame 160 (Card Title): 
+Frame 170 (Card Title): 
+Frame 180 (Card Title): Submersible Carrier Aero Shark
+
+Frame 190 (Card Title): Lavalval Ignis
+
+Frame 200 (Card Title): Grenosaurus
+
+Frame 210 (Card Title): Wonky Quartet
+
+Frame 220 (Card Title): 
+Frame 230 (Card Title): 
+Frame 240 (Card Title): Raidraptor - Blade Burner Falcon
+
+Frame 250 (Card Title): Raidraptor - Blade Burner Falcon
+
+Frame 260 (Card Title): Number 104: Masquerade
+
+Frame 270 (Card Title): Fairy Cheer Girl
+
+Frame 280 (Card Title): 
+Frame 290 (Card Title): 
+Frame 300 (Card Title): Alchemic Magician
+
+Frame 310 (Card Title): Queen Dragun Djinn
+
+Frame 320 (Card Title): Photon Papilloperative
+
+Frame 330 (Card Title): 
+Frame 340 (Card Title): Evilswarm Thanatos
+
+Frame 350 (Card Title): Number 5: Doom Chimera Dragon
+
+Frame 360 (Card Title): Number 5: Doom Chimera Dragon
+
+Frame 370 (Card Title): Ice Princess Zereort
+
+Frame 380 (Card Title): ZW - Leo Arms
+
+Frame 390 (Card Title): ZW - Leo Arms
+
+Frame 400 (Card Title): ZW - Leo Arms
+
+Frame 410 (Card Title): ZW - Leo Arms
+
+Frame 420 (Card Title): ZW - Leo Arms
+
+Frame 430 (Card Title): Number 76: Harmonizer Gradielle
+
+Frame 440 (Card Title): Number 76: Harmonizer Gradielle
+
+Frame 450 (Card Title): Infinitrack Mountain Smasher
+
+Frame 460 (Card Title): 
+Frame 470 (Card Title): Dark Armed, the Dragon of Annihilatior
+
+Frame 480 (Card Title): Dark Armed, the Dragon of Annihilatior
+
+Frame 490 (Card Title): Dark Armed, the Dragon of Annihilatior
+
+Frame 500 (Card Title): Dark Armed, the Dragon of Annihilatior
+
+Frame 510 (Card Title): Dark Armed, the Dragon of Annihilatior
+
+Frame 520 (Card Title): Dark Armed, the Dragon of Annihilatior
+
+Frame 530 (Card Title): Number 28: Titanic Moth
+
+Frame 540 (Card Title): Number 28: Titanic Moth
+
+Frame 550 (Card Title): Number 28: Titanic Moth
+
+Frame 560 (Card Title): 
+Frame 570 (Card Title): Nine-Lives Cat
+
+Frame 580 (Card Title): Number C9: Chaos Dyson Sphere
+
+Frame 590 (Card Title): 
+Frame 600 (Card Title): 
+Frame 610 (Card Title): Number 77: The Seven Sins
+
+Frame 620 (Card Title): Odd-Eyes Wing Dragon
+
+Frame 630 (Card Title): Nirvana High Paladin
+
+Frame 640 (Card Title): Puralis, the Purple Pyrotile
+
+Frame 650 (Card Title): Infernoble Knight Captain Roland
+
+Frame 660 (Card Title): 
+Frame 670 (Card Title): 
+Frame 680 (Card Title): White Aura Dolphin
+
+Frame 690 (Card Title): White Aura Dolphin
+
+Frame 700 (Card Title): Stardust Charge Warrior
+
+Frame 710 (Card Title): Hi-Speedroid Kendama
+
+Frame 720 (Card Title): 
+Frame 730 (Card Title): 
+Frame 740 (Card Title): 
+Frame 750 (Card Title): Mighty Warrior
+
+Frame 760 (Card Title): Moon Dragon Quilla
+
+Frame 770 (Card Title): Geo Genex
+
+Frame 780 (Card Title): Doar
+
+Frame 790 (Card Title): 
+Frame 800 (Card Title): Tengu, the Winged Mayakashi
+
+Frame 810 (Card Title): PSY-Framelord Zeta
+
+Frame 820 (Card Title): Vylon Delta
+
+Frame 830 (Card Title): 
+Frame 840 (Card Title): Blackwing Armor Master
+
+Frame 850 (Card Title): Enlightenment Paladin
+
+Frame 860 (Card Title): Enlightenment Paladin
+
+Frame 870 (Card Title): Brotherhood of the Fire Fist - Kirin
+
+Frame 880 (Card Title): Genex Ally Axel
+
+Frame 890 (Card Title): 
+Frame 900 (Card Title): Sun Dragon Inti
+
+Frame 910 (Card Title): Avenging Knight Parshath
+
+Frame 920 (Card Title): Cloudcastle
+
+Frame 930 (Card Title): 
+Frame 940 (Card Title): 
+Frame 950 (Card Title): 
+Frame 960 (Card Title): Majestic Red Dragon
+
+Frame 970 (Card Title): Majestic Star Dragon
+
+Frame 980 (Card Title): Transcendosaurus Glaciasaurus
+
+Frame 990 (Card Title): Stardust Sifr Divine Dragon
+
+Frame 1000 (Card Title): 
+Frame 1010 (Card Title): 
+Frame 1020 (Card Title): Invoked Caliga
+
+Frame 1030 (Card Title): Gem-Knight Lady Lapis Lazuli
+
+Frame 1040 (Card Title): Flower Wolf
+
+Frame 1050 (Card Title): Flower Wolf
+
+Frame 1060 (Card Title): Earthbound Servant Geo Gremlina
+
+Frame 1070 (Card Title): Elem © oman ndndn: Yose.. aN
+
+Frame 1080 (Card Title): RyuS © oman dna: Yose.. aN?
+
+Frame 1090 (Card Title): Kwag © omanndndn: Yose.. an?
+
+Frame 1100 (Card Title): Kwac © omanndndn: Yose.. an
+
+Frame 1110 (Card Title): © oman ndynIn: Yose.. aN?
+
+Frame 1120 (Card Title): © oman ndynIn: Yose.. aN?
+
+Frame 1130 (Card Title): © oman ndynIn: Yose.. aN?
+
+Frame 1140 (Card Title): Earthbound Servant Geo Gremlina
+
+Frame 1150 (Card Title): Earthbound Servant Geo Gremlina
+
+Frame 1160 (Card Title): Earthbound Servant Geo Gremlina
+
+Frame 1170 (Card Title): Earthbound Servant Geo Gremlina
+
+Frame 1180 (Card Title): Earthbound Servant Geo Gremlina
+
+Frame 0 (Card Title): Pendulum Reborn
+
+Frame 10 (Card Title): Pendulum Reborn
+
+Frame 20 (Card Title): Reject Reborn
+
+Frame 30 (Card Title): Urgent Ritual Art
+
+Frame 40 (Card Title): Urgent Ritual Art
+
+Frame 50 (Card Title): Red-Eyes Spirit
+
+Frame 60 (Card Title): Hi-Five the Sky
+
+Frame 70 (Card Title): Punch-in-the-Box
+
+Frame 80 (Card Title): Ghost of a Grudge
+
+Frame 90 (Card Title): Half Unbreak
+
+Frame 100 (Card Title): BIG Win!?
+
+Frame 110 (Card Title): Intrigue Shield
+
+Frame 120 (Card Title): Burst Rebirth
+
+Frame 130 (Card Title): Burst Rebirth
+
+Frame 140 (Card Title): Butterspy Protection
+
+Frame 150 (Card Title): Reverse Glasses
+
+Frame 160 (Card Title): Torrential Reborn
+
+Frame 170 (Card Title): Memory Loss
+
+Frame 180 (Card Title): Memory of an Adversary
+
+Frame 190 (Card Title): Compulsory Escape Device
+
+Frame 200 (Card Title): Aquamirror Cycle
+
+Frame 210 (Card Title): Dimension Slice
+
+Frame 220 (Card Title): Xyz Reborn
+
+Frame 230 (Card Title): Chaos Infinity
+
+Frame 240 (Card Title): Infestation Tool
+
+Frame 250 (Card Title): Synchro Material
+
+Frame 260 (Card Title): Horn of the Phantom Beast
+
+Frame 270 (Card Title): 
+Frame 280 (Card Title): 
+Frame 290 (Card Title): Koa’ki Meiru Shield
+
+Frame 300 (Card Title): Infernity Inferno
+
+Frame 310 (Card Title): A Major Upset
+
+Frame 320 (Card Title): Skill Successor
+
+Frame 330 (Card Title): 
+Frame 340 (Card Title): Treacherous Trap Hole
+
+Frame 350 (Card Title): Plant Food Chain
+
+Frame 360 (Card Title): 
+Frame 370 (Card Title): 
+Frame 380 (Card Title): 
+Frame 390 (Card Title): 
+Frame 400 (Card Title): Reversal of Fate
+
+Frame 410 (Card Title): Rise of the Snake Deity
+
+Frame 420 (Card Title): Radiant Mirror Force
+
+Frame 430 (Card Title): Chain Detonation
+
+Frame 440 (Card Title): Success Probability 0%
+
+Frame 450 (Card Title): Spiritual Earth Art - Kurogane
+
+Frame 460 (Card Title): Phoenix Wing Wind Blast
+
+Frame 470 (Card Title): Legacy of Yata-Garasu
+
+Frame 480 (Card Title): Interdimensional Matter Transporter
+
+Frame 490 (Card Title): 
+Frame 500 (Card Title): 
+Frame 510 (Card Title): Pyro Clock of Destiny
+
+Frame 520 (Card Title): Amazoness Archers
+
+Frame 530 (Card Title): Jar of Greed
+
+Frame 540 (Card Title): Torrential Tribute
+
+Frame 550 (Card Title): Ring of Destruction
+
+Frame 560 (Card Title): Dust Tornado
+
+Frame 570 (Card Title): 
+Frame 580 (Card Title): 
+Frame 590 (Card Title): 
+Frame 600 (Card Title): Wake Up Centur-lon!
+
+Frame 610 (Card Title): Eye of Illusion
+
+Frame 620 (Card Title): Eye of Illusion
+
+Frame 630 (Card Title): Xyz Align
+
+Frame 640 (Card Title): Xyz Align
+
+Frame 650 (Card Title): 
+Frame 660 (Card Title): 
+Frame 670 (Card Title): 
+Frame 680 (Card Title): 
+Frame 690 (Card Title): 
+Frame 700 (Card Title): 
+Frame 0 (Card Title): Ultimate Divine-Beast
+
+Frame 10 (Card Title): 
+Frame 20 (Card Title): Sun God Unification
+
+Frame 30 (Card Title): Conquistador of the Golden Land
+
+Frame 40 (Card Title): Resurgam Xyz
+
+Frame 50 (Card Title): Simorgh Sky Battle
+
+Frame 60 (Card Title): D - Tactics
+
+Frame 70 (Card Title): Dark Factory of More Production
+
+Frame 80 (Card Title): 
+Frame 90 (Card Title): 
+Frame 100 (Card Title): 
+Frame 110 (Card Title): 
+Frame 120 (Card Title): 
+Frame 130 (Card Title): 
+Frame 140 (Card Title): 
+Frame 150 (Card Title): 
+Frame 160 (Card Title): 
+Frame 170 (Card Title): 
+Frame 180 (Card Title): 
+Frame 190 (Card Title): 
+Frame 200 (Card Title): 
+Frame 210 (Card Title): 
+Frame 220 (Card Title): 
+Frame 230 (Card Title): 
+Frame 240 (Card Title): Number Wall
+
+Frame 250 (Card Title): 
+Frame 260 (Card Title): Vain Betrayer
+
+Frame 270 (Card Title): Castle of Dragon Souls
+
+Frame 280 (Card Title): Abyss-sphere
+
+Frame 290 (Card Title): 
+Frame 300 (Card Title): 
+Frame 310 (Card Title): 
+Frame 320 (Card Title): 
+Frame 330 (Card Title): 
+Frame 340 (Card Title): 
+Frame 350 (Card Title): 
+Frame 360 (Card Title): Zoma the Spirit
+
+Frame 370 (Card Title): Fatal Abacus
+
+Frame 380 (Card Title): Embodiment of Apophis
+
+Frame 390 (Card Title): Solemn Wishes
+
+Frame 400 (Card Title): Robbin‘ Goblin
+
+Frame 410 (Card Title): Vanquish Soul Calamity Caesar
+
+Frame 420 (Card Title): Protection of the Elements
+
+Frame 430 (Card Title): Black Shadow Squall
+
+Frame 440 (Card Title): Numbers Protection
+
+Frame 450 (Card Title): Adamancipator Resonance
+
+Frame 460 (Card Title): Evil Eye Retribution
+
+Frame 470 (Card Title): Blackbird Close
+
+Frame 480 (Card Title): World Legacy's Sorrow
+
+Frame 490 (Card Title): 
+Frame 500 (Card Title): 
+Frame 510 (Card Title): 
+Frame 520 (Card Title): 
+Frame 530 (Card Title): 
+Frame 540 (Card Title): 
+Frame 550 (Card Title): 
+Frame 560 (Card Title): Swallow Flip
+
+Frame 570 (Card Title): Pollinosis
+
+Frame 580 (Card Title): Destruction Jammer
+
+Frame 590 (Card Title): Dark Illusion
+
+Frame 600 (Card Title): Hero’s Rule 2
+
+Frame 610 (Card Title): Trap of Board Eraser
+
+Frame 620 (Card Title): Judgment of Anubis
+
+Frame 630 (Card Title): Magic Drain
+
+Frame 640 (Card Title): Lightsworn Aegis
+
+Frame 650 (Card Title): Raidraptor - Glorious Bright
+
+Frame 660 (Card Title): Vanquish Soul Snow Devil
+
+Frame 670 (Card Title): 
+Frame 680 (Card Title): 
+Frame 690 (Card Title): Scrap-lron Sacred Statue
+
+Frame 700 (Card Title): Vanquish Soul Trinity Burst
+
+Frame 710 (Card Title): Gold Pride - It's Neck and Neck!
+
+Frame 720 (Card Title): REINFORCE!
+
+Frame 730 (Card Title): Spright Double Cross
+
+Frame 740 (Card Title): Crystal Boon
+
+Frame 750 (Card Title): Blast Held by Destiny
+
+Frame 760 (Card Title): Favorite Contact
+
+Frame 770 (Card Title): Haunted Zombies
+
+Frame 780 (Card Title): Pendulum Scale
+
+Frame 790 (Card Title): Beetrooper Squad
+
+Frame 800 (Card Title): Lyttuise - Phantom Feathers
+
+Frame 810 (Card Title): Amaze Attraction Wonder Wheel
+
+Frame 820 (Card Title): 
+Frame 830 (Card Title): 
+Frame 840 (Card Title): 
+Frame 850 (Card Title): 
+Frame 860 (Card Title): 
+Frame 870 (Card Title): Dragonmaid Tidying
+
+Frame 880 (Card Title): Madolche Promenade
+
+Frame 890 (Card Title): Eternal Bond
+
+Frame 900 (Card Title): Fuhma Wave
+
+Frame 910 (Card Title): Jelly Cannon
+
+Frame 920 (Card Title): Puppet Parade
+
+Frame 930 (Card Title): Evil Eye Defeat
+
+Frame 940 (Card Title): Cubic Ascension
+
+Frame 950 (Card Title): Time Thief Flyback
+
+Frame 960 (Card Title): Time Thief Flyback
+
+Frame 970 (Card Title): Time Thief Flyback
+
+Frame 980 (Card Title): Blooming of the Darkest Rose
+
+Frame 990 (Card Title): 
+Frame 1000 (Card Title): 
+Frame 1010 (Card Title): Cybernetic Revolution
+
+Frame 1020 (Card Title): The Deep Grave
+
+Frame 1030 (Card Title): Ballista Squad
+
+Frame 1040 (Card Title): Cross-Dimensional Duel
+
+Frame 1050 (Card Title): Cross-Dimensional Duel
+
+Frame 1060 (Card Title): Cyberse Beacon
+
+Frame 1070 (Card Title): 
+Frame 1080 (Card Title): 
+Frame 1090 (Card Title): 
+Frame 1100 (Card Title): 
+Frame 1110 (Card Title): Beginning of Heaven and Earth
+
+Frame 1120 (Card Title): D-Fusion
+
+Frame 1130 (Card Title): Union Scramble
+
+Frame 1140 (Card Title): Unification of the Cubic Lords
+
+Frame 1150 (Card Title): Unification of the Cubic Lords
+
+Frame 1160 (Card Title): Dark Horizon
+
+Frame 1170 (Card Title): Dig of Destiny
+
+Frame 1180 (Card Title): Unified Front
+
+Frame 1190 (Card Title): Magician Navigation
+
+Frame 1200 (Card Title): Rise to Full Height
+
+Frame 1210 (Card Title): Paleozoic Dinomischus
+
+Frame 1220 (Card Title): Pendulum Reborn
+
+Frame 1230 (Card Title): Pendulum Reborn
+
+Frame 0 (Card Title): Destiny HERO — Denier
+
+Frame 10 (Card Title): Destiny HERO — Denier
+
+Frame 20 (Card Title): Attachment Cybern
+
+Frame 30 (Card Title): 
+Frame 40 (Card Title): Gizmek Taniguku, the Immobile Intellec
+
+Frame 50 (Card Title): Amazement Ambassador Bufo
+
+Frame 60 (Card Title): Windwitch - Freeze Bell
+
+Frame 70 (Card Title): Giacial Beast Polar Penguin
+
+Frame 80 (Card Title): 
+Frame 90 (Card Title): 
+Frame 100 (Card Title): Brotherhood of the Fire Fist - Ram
+
+Frame 110 (Card Title): Gladiator Beast Sagittarii
+
+Frame 120 (Card Title): Marincess Sea Horse
+
+Frame 130 (Card Title): Rescue Interlacer
+
+Frame 140 (Card Title): 
+Frame 150 (Card Title): Shiranui Spectralsword Shade
+
+Frame 160 (Card Title): Defcon Bird
+
+Frame 170 (Card Title): D.D. Seeker
+
+Frame 180 (Card Title): 
+Frame 190 (Card Title): 
+Frame 200 (Card Title): Secret Six Samurai - Hatsume
+
+Frame 210 (Card Title): Backlinker
+
+Frame 220 (Card Title): Red-Eyes Baby Dragon
+
+Frame 230 (Card Title): Amazoness Spy
+
+Frame 240 (Card Title): 
+Frame 250 (Card Title): Gouki Twistcobra
+
+Frame 260 (Card Title): Wightprincess
+
+Frame 270 (Card Title): Gamma The Electromagnet Warrior
+
+Frame 280 (Card Title): 
+Frame 290 (Card Title): Apple Magician Girl
+
+Frame 300 (Card Title): Magician's Rod
+
+Frame 310 (Card Title): Speedroid Taketomborg
+
+Frame 320 (Card Title): 
+Frame 330 (Card Title): Caninetaur
+
+Frame 340 (Card Title): Fiendish Rhino Warrior
+
+Frame 350 (Card Title): Marmiting Captain
+
+Frame 360 (Card Title): 
+Frame 370 (Card Title): 
+Frame 380 (Card Title): Deskbot 003
+
+Frame 390 (Card Title): Performapal Friendonkey
+
+Frame 400 (Card Title): Edge Imp Sabres
+
+Frame 410 (Card Title): Superheavy Samurai Soulbang Cannon
+
+Frame 420 (Card Title): 
+Frame 430 (Card Title): Hydrotortoise, the Empowered Warrior
+
+Frame 440 (Card Title): Humpty Grumpty
+
+Frame 450 (Card Title): Minerva, Lightsworn Maiden
+
+Frame 460 (Card Title): Kidmodo Dragon
+
+Frame 470 (Card Title): 
+Frame 480 (Card Title): Wind-Up Rabbit
+
+Frame 490 (Card Title): Evoltile Westlo
+
+Frame 500 (Card Title): Lightserpent
+
+Frame 510 (Card Title): 
+Frame 520 (Card Title): 
+Frame 530 (Card Title): Hushed Psychic Cleric
+
+Frame 540 (Card Title): Vision HERO Increase
+
+Frame 550 (Card Title): Red Lotus King, Flame Crime
+
+Frame 560 (Card Title): Vylon Cube
+
+Frame 570 (Card Title): 
+Frame 580 (Card Title): Ghost Sleeper, the Underworld Princes
+
+Frame 590 (Card Title): Drill Synchron
+
+Frame 600 (Card Title): XX-Saber Fulhelmknight
+
+Frame 610 (Card Title): Oshaleon
+
+Frame 620 (Card Title): 
+Frame 630 (Card Title): 
+Frame 640 (Card Title): Dragunity Legionnaire
+
+Frame 650 (Card Title): Morphtronic Remoten
+
+Frame 660 (Card Title): Blackwing — Kalut the Moon Shadow
+
+Frame 670 (Card Title): Rai-Mei
+
+Frame 680 (Card Title): 
+Frame 690 (Card Title): 
+Frame 700 (Card Title): Worm Jetelikpse
+
+Frame 710 (Card Title): Test Tiger
+
+Frame 720 (Card Title): The Immortal Bushi
+
+Frame 730 (Card Title): 
+Frame 740 (Card Title): 
+Frame 750 (Card Title): Necro Gardna
+
+Frame 760 (Card Title): Exploder Dragon
+
+Frame 770 (Card Title): Broww. Huntsman of Dark World
+
+Frame 780 (Card Title): 
+Frame 790 (Card Title): The Dark - Hex-Sealed Fusion
+
+Frame 800 (Card Title): Marshmallon
+
+Frame 810 (Card Title): Spirit Reaper
+
+Frame 820 (Card Title): 
+Frame 830 (Card Title): Twin-Headed Behemoth
+
+Frame 840 (Card Title): Cocoon of Evolution
+
+Frame 850 (Card Title): Sangan
+
+Frame 860 (Card Title): Sangan
+
+Frame 870 (Card Title): Ancient Gear Tanker
+
+Frame 880 (Card Title): SPYRAL Double Agent
+
+Frame 890 (Card Title): 
+Frame 900 (Card Title): Tellarknight Altairan
+
+Frame 910 (Card Title): Superheavy Samurai Soulgaia Booster
+
+Frame 920 (Card Title): Firewall Defenser
+
+Frame 930 (Card Title): 
+Frame 940 (Card Title): Shell of Chaos
+
+Frame 950 (Card Title): Zalamander Catalyzer
+
+Frame 960 (Card Title): 
+Frame 970 (Card Title): Celestial Apparatus Tesea
+
+Frame 980 (Card Title): Naturia Camellia
+
+Frame 990 (Card Title): Night Sword Serpent
+
+Frame 1000 (Card Title): 
+Frame 1010 (Card Title): 
+Frame 1020 (Card Title): Geminize Lord Golknight
+
+Frame 1030 (Card Title): Maginificent Magikey Mafteal
+
+Frame 1040 (Card Title): Astraltopia
+
+Frame 1050 (Card Title): 
+Frame 1060 (Card Title): 
+Frame 1070 (Card Title): Thron the Disciplined Angel
+
+Frame 1080 (Card Title): Dark Eye Nightmare
+
+Frame 1090 (Card Title): S-Force Edge Razor
+
+Frame 1100 (Card Title): 
+Frame 1110 (Card Title): 
+Frame 1120 (Card Title): ZS - Armed Sage
+
+Frame 1130 (Card Title): Shell Knight
+
+Frame 1140 (Card Title): Time Thief Adjuster
+
+Frame 1150 (Card Title): 
+Frame 1160 (Card Title): 
+Frame 1170 (Card Title): Zolga the Prophet
+
+Frame 1180 (Card Title): Millennium Seeker
+
+Frame 1190 (Card Title): Chaos Grepher
+
+Frame 1200 (Card Title): Chaos Grepher
+
+Frame 1210 (Card Title): Endymion, the Magistus of Mastery
+
+Frame 1220 (Card Title): Cocatorium the Heavy Metal Avian
+
+Frame 1230 (Card Title): 
+Frame 1240 (Card Title): Tri-Brigade Fraktall
+
+Frame 1250 (Card Title): Raidraptor - Strangle Lanius
+
+Frame 1260 (Card Title): 
+Frame 1270 (Card Title): Raider's Wing
+
+Frame 1280 (Card Title): Toon Harpie Lady
+
+Frame 1290 (Card Title): Reactor Slime
+
+Frame 1300 (Card Title): 
+Frame 1310 (Card Title): Lifeless Leaffish
+
+Frame 1320 (Card Title): Mathmech Diameter
+
+Frame 1330 (Card Title): Machina Resavenger
+
+Frame 1340 (Card Title): Machina Resavenger
+
+Frame 1350 (Card Title): Machina Resavenger
+
+Frame 1360 (Card Title): Dogmatika Theo, the Iron Punch
+
+Frame 1370 (Card Title): Dogmatika Theo, the Iron Punch
+
+Frame 1380 (Card Title): Artillery Catapult Turtle
+
+Frame 1390 (Card Title): Redbeard. the Plunder Patroll Matey
+
+Frame 1400 (Card Title): 
+Frame 1410 (Card Title): Whitebeard, the Plunder Patroll Helm
+
+Frame 1420 (Card Title): Guard Ghost
+
+Frame 1430 (Card Title): Buzzsaw Shark
+
+Frame 1440 (Card Title): 
+Frame 1450 (Card Title): Red Familiar
+
+Frame 1460 (Card Title): Naelshaddoll Ariel
+
+Frame 1470 (Card Title): Dodododwarf Gogogoglove
+
+Frame 1480 (Card Title): 
+Frame 1490 (Card Title): 
+Frame 1500 (Card Title): Ibicella Lutea
+
+Frame 1510 (Card Title): Sky Striker Ace - Roze
+
+Frame 1520 (Card Title): Chronomaly Tuspa Rocket
+
+Frame 1530 (Card Title): 
+Frame 1540 (Card Title): Mathmech Subtraction
+
+Frame 1550 (Card Title): Mathmech Subtraction
+
+Frame 1560 (Card Title): Mathmech Subtraction
+
+Frame 1570 (Card Title): Mathmech Subtraction
+
+Frame 1580 (Card Title): Mathmech Subtraction
+
