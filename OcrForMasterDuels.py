@@ -1,6 +1,7 @@
 import cv2
 import pytesseract
 from pytesseract import Output
+import os  # Add this import at the top of your file
 
 def preprocess_for_title(frame):
     # Convert the frame to grayscale
@@ -42,8 +43,12 @@ with open('extracted_text.txt', 'w', encoding='utf-8') as text_file:
             # Crop the frame to the area of the screen where card titles are located
             # Assuming you know the coordinates of the card title region (you may need to adjust these)
             card_title_area = frame[ 40:80, 140:440]  # Example coordinates
+            
+            # Ensure the directory exists
+            os.makedirs('CardNames', exist_ok=True)  # {{ edit_1 }}
+            
             # Save the cropped image as a new file
-            cv2.imwrite(f'CardNames/card_title_frame_{frame_number}.png', card_title_area)  # {{ edit_1 }}
+            cv2.imwrite(f'CardNames/card_title_frame_{frame_number}.png', card_title_area)  # {{ edit_2 }}
 
             # Preprocess the frame for better OCR results
             processed_frame = preprocess_for_title(card_title_area)
