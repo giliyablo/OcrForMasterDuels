@@ -163,4 +163,4 @@ cython_debug/
 
 # Video Files
 ocr*.mp4
-CardNames*/*
+*CardNames*/*

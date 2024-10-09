@@ -60,6 +60,12 @@ with open('extracted_text.txt', 'w', encoding='utf-8') as text_file:
                 # Preprocess the frame for better OCR results
                 processed_frame = preprocess_for_title(card_title_area)
                 
+                # Ensure the directory exists
+                os.makedirs('preprocessedCardNames', exist_ok=True)  # {{ edit_1 }}
+                
+                # Save the preprocessed cropped image as a new file
+                cv2.imwrite(f'preprocessedCardNames/card_title_video_{videoindex}_frame_{frame_number}.png', processed_frame)  # {{ edit_2 }}
+
                 # Use pytesseract to do OCR on the title area
                 custom_config = r'--oem 3 --psm 6'  # oem 3: Best OCR engine, psm 6: Assume a single uniform block of text
                 title_text = pytesseract.image_to_string(processed_frame, config=custom_config, output_type=Output.STRING)
