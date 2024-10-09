@@ -2,24 +2,29 @@ import cv2
 import pytesseract
 from pytesseract import Output
 import os  # Add this import at the top of your file
+import numpy as np  # Add this line to import NumPy
 
 def preprocess_for_title(frame):
     # Convert the frame to grayscale
     gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
     # Increase contrast
-    alpha = 2.0  # Increased contrast control
+    alpha = 2.5  # Increased contrast control
     contrast_frame = cv2.convertScaleAbs(gray_frame, alpha=alpha, beta=0)
 
     # Upscale the image to improve OCR accuracy
-    upscale_frame = cv2.resize(contrast_frame, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+    upscale_frame = cv2.resize(contrast_frame, None, fx=3, fy=3, interpolation=cv2.INTER_CUBIC)  # Increased upscaling
 
     # Apply adaptive thresholding
     threshold_frame = cv2.adaptiveThreshold(upscale_frame, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, 
                                             cv2.THRESH_BINARY, 11, 2)
 
+    # Sharpen the image
+    kernel = np.array([[0, -1, 0], [-1, 5,-1], [0, -1, 0]])  # Sharpening kernel
+    sharpened_frame = cv2.filter2D(threshold_frame, -1, kernel)
+
     # Optional: Denoising to remove small specks
-    denoised_frame = cv2.fastNlMeansDenoising(threshold_frame, None, h=30)
+    denoised_frame = cv2.fastNlMeansDenoising(sharpened_frame, None, h=30)
 
     # Invert the colors: make text black and background white
     inverted_frame = cv2.bitwise_not(denoised_frame)
