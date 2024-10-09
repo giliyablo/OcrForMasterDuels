@@ -23,7 +23,7 @@ videoindex = 0
 
 # Open a file to save the extracted text with utf-8 encoding
 with open('extracted_text.txt', 'w', encoding='utf-8') as text_file:
-    while videoindex < 8:
+    while videoindex < 9:
         # Video count increase: 
         videoindex += 1
 
