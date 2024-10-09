@@ -7,11 +7,15 @@ def preprocess_for_title(frame):
     # Convert the frame to grayscale
     gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-    # Upscale the image to improve OCR accuracy
-    upscale_frame = cv2.resize(gray_frame, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+    # Increase contrast
+    alpha = 1.5  # Contrast control
+    contrast_frame = cv2.convertScaleAbs(gray_frame, alpha=alpha, beta=0)
 
-    # Apply adaptive thresholding
-    threshold_frame = cv2.adaptiveThreshold(upscale_frame, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2)
+    # Upscale the image to improve OCR accuracy
+    upscale_frame = cv2.resize(contrast_frame, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+
+    # Apply Otsu's thresholding
+    _, threshold_frame = cv2.threshold(upscale_frame, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
     # Optional: Denoising to remove small specks
     denoised_frame = cv2.fastNlMeansDenoising(threshold_frame, None, h=30)
