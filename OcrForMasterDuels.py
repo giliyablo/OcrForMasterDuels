@@ -10,8 +10,8 @@ def preprocess_for_title(frame):
     # Upscale the image to improve OCR accuracy
     upscale_frame = cv2.resize(gray_frame, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
 
-    # Apply thresholding to binarize the image (black and white)
-    _, threshold_frame = cv2.threshold(upscale_frame, 150, 255, cv2.THRESH_BINARY)
+    # Apply adaptive thresholding
+    threshold_frame = cv2.adaptiveThreshold(upscale_frame, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2)
 
     # Optional: Denoising to remove small specks
     denoised_frame = cv2.fastNlMeansDenoising(threshold_frame, None, h=30)
