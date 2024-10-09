@@ -22,9 +22,9 @@ def preprocess_for_title(frame):
     denoised_frame = cv2.fastNlMeansDenoising(threshold_frame, None, h=30)
 
     # Invert the colors: make text black and background white
-    # inverted_frame = cv2.bitwise_not(denoised_frame)
+    inverted_frame = cv2.bitwise_not(denoised_frame)
 
-    return denoised_frame
+    return inverted_frame
 
 # Video count
 videoindex = 0
