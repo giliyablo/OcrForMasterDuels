@@ -7,29 +7,20 @@ import numpy as np  # Add this line to import NumPy
 def preprocess_for_title(frame):
     # Convert the frame to grayscale
     gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-
-    # Increase contrast
-    alpha = 2.5  # Increased contrast control
-    contrast_frame = cv2.convertScaleAbs(gray_frame, alpha=alpha, beta=0)
-
+    
+    # Lighten the background by adding a constant value (e.g., 50)
+    gray_frame = cv2.add(gray_frame, 50)  # Adjust the value as needed
+    
     # Upscale the image to improve OCR accuracy
-    upscale_frame = cv2.resize(contrast_frame, None, fx=3, fy=3, interpolation=cv2.INTER_CUBIC)  # Increased upscaling
-
-    # Apply adaptive thresholding
-    threshold_frame = cv2.adaptiveThreshold(upscale_frame, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, 
-                                            cv2.THRESH_BINARY, 11, 2)
-
-    # Sharpen the image
-    kernel = np.array([[0, -1, 0], [-1, 5,-1], [0, -1, 0]])  # Sharpening kernel
-    sharpened_frame = cv2.filter2D(threshold_frame, -1, kernel)
-
+    upscale_frame = cv2.resize(gray_frame, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+    
+    # Apply thresholding to binarize the image (black and white)
+    _, threshold_frame = cv2.threshold(upscale_frame, 150, 255, cv2.THRESH_BINARY)
+    
     # Optional: Denoising to remove small specks
-    denoised_frame = cv2.fastNlMeansDenoising(sharpened_frame, None, h=30)
-
-    # Invert the colors: make text black and background white
-    inverted_frame = cv2.bitwise_not(denoised_frame)
-
-    return inverted_frame
+    denoised_frame = cv2.fastNlMeansDenoising(threshold_frame, None, h=30)
+    
+    return denoised_frame
 
 # Video count
 videoindex = 0
