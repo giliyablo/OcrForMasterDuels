@@ -7,20 +7,16 @@ def preprocess_for_title(frame):
     # Convert the frame to grayscale
     gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-    # Increase contrast
-    alpha = 1.5  # Contrast control
-    contrast_frame = cv2.convertScaleAbs(gray_frame, alpha=alpha, beta=0)
-
     # Upscale the image to improve OCR accuracy
-    upscale_frame = cv2.resize(contrast_frame, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+    upscale_frame = cv2.resize(gray_frame, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
 
-    # Apply Otsu's thresholding
+    # Apply Otsu's thresholding to binarize the image
     _, threshold_frame = cv2.threshold(upscale_frame, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
-    # Optional: Denoising to remove small specks
-    denoised_frame = cv2.fastNlMeansDenoising(threshold_frame, None, h=30)
+    # Invert the colors: make text black and background white
+    inverted_frame = cv2.bitwise_not(threshold_frame)
 
-    return denoised_frame
+    return inverted_frame
 
 # Video count
 videoindex = 0
