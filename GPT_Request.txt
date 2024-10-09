@@ -1,1 +1,1 @@
-I have used OCR to scan the game and find what cards I own. Could you understand what cards I have from reading the file and after that could you make a list of the cards I own in a minimal way. Also, I would like if you could build me the best deck you can from the cards I own. 
+I have managed to create a list of all the cards I own in the game with OCR. Please construct the best possible deck from this list of cards. 
